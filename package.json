@@ -1,0 +1,11 @@
+{
+  "name": "diyaz-forge-skill",
+  "version": "2.1.0",
+  "private": true,
+  "description": "Evidence-first CRM/ERP engineering skill for AI coding agents",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node scripts/validate.mjs && node scripts/eval.mjs"
+  }
+}
